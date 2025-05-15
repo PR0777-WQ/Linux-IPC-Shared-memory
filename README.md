@@ -1,6 +1,7 @@
 # Linux-IPC-Shared-memory
 Ex06-Linux IPC-Shared-memory
-
+# NAME S.T. DHANAAAKHAASH
+# REG NO 212224240032
 # AIM:
 To Write a C program that illustrates two processes communicating using shared memory.
 
